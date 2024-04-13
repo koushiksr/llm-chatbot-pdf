@@ -1,0 +1,11 @@
+# pip install -U   --quiet   flask  langchain_google_genai pymongo  flask_cors langchain_community   pypdf langchain-text-splitters sentence-transformers faiss-cpu
+# pip install -U --no-cache-dir  -r requirements.txt
+flask
+langchain_google_genai
+pymongo
+flask_cors
+langchain_community
+pypdf
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
